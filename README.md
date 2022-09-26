@@ -1,3 +1,1 @@
-# NDL-AI-Workshop
-
-AI workshop from NDL
+Repository for all Nittany Data Lab projects and labs
